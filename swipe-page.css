@@ -20,6 +20,23 @@
 	border: none;
 	bottom: 0;
 }
+.center-box {
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    width: 700px;
+    height: 200px;
+    background-color: white;
+    color: black;
+    border: 10px solid navy;
+    padding: 25px;
+    margin: 25px;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+.boxed {
+  width: 300px;
+}
 /* The footer won't have a height because there are only two absolute positioned elements in it.
 So we position the buttons from the bottom. */
 .control.ui-btn-left,
