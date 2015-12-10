@@ -1,12 +1,15 @@
 /* Set the background image sources */
-#index { background-image: url("../_assets/img/newyork.jpg"); }
+/* #index { background-image: url("../_assets/img/newyork.jpg"); }
 #buenosaires { background-image: url("../_assets/img/buenosaires.jpg"); }
 #paris { background-image: url("../_assets/img/paris.jpg"); }
 #capetown { background-image: url("../_assets/img/capetown.jpg"); }
 #seoul { background-image: url("../_assets/img/seoul.jpg"); }
 #sydney { background-image: url("../_assets/img/sydney.jpg"); }
+*/
 /* Background settings */
+/* #index { background-image: url("_assets/img/100783874.jpg"); } */
 .demo-page {
+	background-image: url("_assets/img/100783874.jpg");
 	background-size: cover;
 	background-position: center center;
 	background-repeat: no-repeat;
@@ -38,5 +41,5 @@ small {
 }
 
 #main {
-	
+
 }
